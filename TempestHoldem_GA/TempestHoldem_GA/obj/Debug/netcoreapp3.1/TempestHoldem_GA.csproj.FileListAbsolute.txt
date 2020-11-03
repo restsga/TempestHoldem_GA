@@ -1,0 +1,13 @@
+C:\Users\松永創\Documents\GitClone\Windows\TempestHoldem_GA\TempestHoldem_GA\TempestHoldem_GA\bin\Debug\netcoreapp3.1\TempestHoldem_GA.exe
+C:\Users\松永創\Documents\GitClone\Windows\TempestHoldem_GA\TempestHoldem_GA\TempestHoldem_GA\bin\Debug\netcoreapp3.1\TempestHoldem_GA.deps.json
+C:\Users\松永創\Documents\GitClone\Windows\TempestHoldem_GA\TempestHoldem_GA\TempestHoldem_GA\bin\Debug\netcoreapp3.1\TempestHoldem_GA.runtimeconfig.json
+C:\Users\松永創\Documents\GitClone\Windows\TempestHoldem_GA\TempestHoldem_GA\TempestHoldem_GA\bin\Debug\netcoreapp3.1\TempestHoldem_GA.runtimeconfig.dev.json
+C:\Users\松永創\Documents\GitClone\Windows\TempestHoldem_GA\TempestHoldem_GA\TempestHoldem_GA\bin\Debug\netcoreapp3.1\TempestHoldem_GA.dll
+C:\Users\松永創\Documents\GitClone\Windows\TempestHoldem_GA\TempestHoldem_GA\TempestHoldem_GA\bin\Debug\netcoreapp3.1\TempestHoldem_GA.pdb
+C:\Users\松永創\Documents\GitClone\Windows\TempestHoldem_GA\TempestHoldem_GA\TempestHoldem_GA\obj\Debug\netcoreapp3.1\TempestHoldem_GA.csprojAssemblyReference.cache
+C:\Users\松永創\Documents\GitClone\Windows\TempestHoldem_GA\TempestHoldem_GA\TempestHoldem_GA\obj\Debug\netcoreapp3.1\TempestHoldem_GA.AssemblyInfoInputs.cache
+C:\Users\松永創\Documents\GitClone\Windows\TempestHoldem_GA\TempestHoldem_GA\TempestHoldem_GA\obj\Debug\netcoreapp3.1\TempestHoldem_GA.AssemblyInfo.cs
+C:\Users\松永創\Documents\GitClone\Windows\TempestHoldem_GA\TempestHoldem_GA\TempestHoldem_GA\obj\Debug\netcoreapp3.1\TempestHoldem_GA.csproj.CoreCompileInputs.cache
+C:\Users\松永創\Documents\GitClone\Windows\TempestHoldem_GA\TempestHoldem_GA\TempestHoldem_GA\obj\Debug\netcoreapp3.1\TempestHoldem_GA.dll
+C:\Users\松永創\Documents\GitClone\Windows\TempestHoldem_GA\TempestHoldem_GA\TempestHoldem_GA\obj\Debug\netcoreapp3.1\TempestHoldem_GA.pdb
+C:\Users\松永創\Documents\GitClone\Windows\TempestHoldem_GA\TempestHoldem_GA\TempestHoldem_GA\obj\Debug\netcoreapp3.1\TempestHoldem_GA.genruntimeconfig.cache
